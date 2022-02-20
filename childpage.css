@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.carousel .carousel-item {
+  position: relative;
+  min-height: 500px;
+}
+.carousel-item img {
+  position: absolute;
+  height: 100%;
+  top: 10;
+  left: 0;
+  min-height: 500px;
+}
+#list-checkin {
+  width: 90%;
+  margin: auto;
+}
+
+#list-checkin {
+  width: 80%;
+}
+ul {
+  list-style-type: none;
+}
